@@ -1,0 +1,5 @@
+{
+  "name": "MediaCtl Topology Visualizer",
+  "description": "A developer tool to parse, visualize, and analyze media-ctl device topology logs using interactive graphs and Gemini AI.",
+  "requestFramePermissions": []
+}
